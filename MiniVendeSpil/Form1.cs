@@ -57,8 +57,9 @@ namespace MiniVendeSpil
                 if (0 == string.Compare(b.Text, firstButton.Text))
                 {
                     MessageBox.Show("There was a match");
-                    b.Enabled = false;
-                    firstButton.Enabled = false;
+                    b.Click -= (ButtonCommon);
+                    firstButton.Click -= (ButtonCommon); // Disables the button without greying it out.
+                    firstButton.Enabled = true; // re-enables the disabled button if you choose the wrong button.
                 }
                 else
                 {
