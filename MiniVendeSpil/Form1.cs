@@ -44,17 +44,17 @@ namespace MiniVendeSpil
                 {
                     firstButton.Text = backSide[nummer - 1]; // -1 due to 0 index in array
                 }
+                firstButton.Enabled = false; // Disables the button when pressed, so you can't double press and get a match.
                 firstButtonPressed = true;
             }
             else
             {
                 int nummer = GetNumber(b.Name);
-                if (nummer>0)
+                if (nummer > 0)
                 {
                     b.Text = backSide[nummer - 1]; // -1 due to 0 index in array
                 }
-
-                if (0 == string.Compare(b.Text,firstButton.Text))
+                if (0 == string.Compare(b.Text, firstButton.Text))
                 {
                     MessageBox.Show("There was a match");
                     b.Enabled = false;
@@ -66,6 +66,7 @@ namespace MiniVendeSpil
                     Thread.Sleep(1500);
                     firstButton.Text = "";
                     b.Text = "";
+                    firstButton.Enabled = true; // re-enables the disabled button if you choose the wrong button.
                 }
                 firstButtonPressed = false;
             }
