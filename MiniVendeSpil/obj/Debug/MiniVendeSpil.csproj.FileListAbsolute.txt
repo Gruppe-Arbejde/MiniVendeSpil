@@ -8,3 +8,13 @@ C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\MiniVendeSpil\MiniVendeSp
 C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\MiniVendeSpil\MiniVendeSpil\obj\Debug\MiniVendeSpil.csproj.CoreCompileInputs.cache
 C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\MiniVendeSpil\MiniVendeSpil\obj\Debug\MiniVendeSpil.exe
 C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\MiniVendeSpil\MiniVendeSpil\obj\Debug\MiniVendeSpil.pdb
+C:\Users\maxim\Documents\GitHub\MiniVendeSpil\MiniVendeSpil\bin\Debug\MiniVendeSpil.exe.config
+C:\Users\maxim\Documents\GitHub\MiniVendeSpil\MiniVendeSpil\bin\Debug\MiniVendeSpil.exe
+C:\Users\maxim\Documents\GitHub\MiniVendeSpil\MiniVendeSpil\bin\Debug\MiniVendeSpil.pdb
+C:\Users\maxim\Documents\GitHub\MiniVendeSpil\MiniVendeSpil\obj\Debug\MiniVendeSpil.csprojAssemblyReference.cache
+C:\Users\maxim\Documents\GitHub\MiniVendeSpil\MiniVendeSpil\obj\Debug\MiniVendeSpil.Form1.resources
+C:\Users\maxim\Documents\GitHub\MiniVendeSpil\MiniVendeSpil\obj\Debug\MiniVendeSpil.Properties.Resources.resources
+C:\Users\maxim\Documents\GitHub\MiniVendeSpil\MiniVendeSpil\obj\Debug\MiniVendeSpil.csproj.GenerateResource.cache
+C:\Users\maxim\Documents\GitHub\MiniVendeSpil\MiniVendeSpil\obj\Debug\MiniVendeSpil.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Documents\GitHub\MiniVendeSpil\MiniVendeSpil\obj\Debug\MiniVendeSpil.exe
+C:\Users\maxim\Documents\GitHub\MiniVendeSpil\MiniVendeSpil\obj\Debug\MiniVendeSpil.pdb
